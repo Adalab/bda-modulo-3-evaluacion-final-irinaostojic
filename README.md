@@ -3,7 +3,7 @@
 
 ¡Hola! Soy Irina Ostojic, estudiante del Bootcamp de Data Analytics en Adalab. Esta es mi tercera evaluación del Módulo 3, centrado en el tratamiento de datos a través de Python, usando Pandas, y aplicando visualización y estadística.
 
-Me encanta analizar datos para encontrar patrones, insights y contar historias a partir de ellos. Disfruto depurando datos, creando visualizaciones claras y aplicando pruebas estadísticas para entender mejor los comportamientos de los datos.
+Me encanta analizar datos para encontrar patrones, insights y contar historias a partir de ellos. Disfruto limpiando y depurando datos, y creando visualizaciones claras para entender mejor los comportamientos de los datos.
 
 📧 Contacto: irinaostojicnieto@gmail.com
 
@@ -11,8 +11,8 @@ Me encanta analizar datos para encontrar patrones, insights y contar historias a
 
 El proyecto analiza el comportamiento de clientes de un programa de lealtad de una aerolínea, utilizando dos conjuntos de datos:
 
-- Customer Flight Analysis.csv – Información mensual de vuelos reservados, distancias voladas, puntos acumulados y canjeados, y costos asociados a los puntos.
-- Customer Loyalty History.csv – Información personal y de perfil de los clientes: país, provincia, ciudad, género, nivel educativo, salario, tipo de tarjeta, valor de vida del cliente, fechas de inscripción y cancelación.
+- Customer Flight Analysis.csv – Información mensual de vuelos reservados, distancias voladas, puntos acumulados y canjeados, y costes asociados a esos puntos.
+- Customer Loyalty History.csv – Información personal y de perfil de los clientes: país, provincia, ciudad, género, nivel educativo, salario, tipo de tarjeta de fidelidad, valor aportado a la empresa, fechas de inscripción a la tarjeta de fidelidad y cancelación.
 
 ## 🧰 Librerias utilizadas
 Las principales librerias que hemos utilizado en el desarrollo del proyecto son:
