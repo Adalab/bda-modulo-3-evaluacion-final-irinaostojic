@@ -7,7 +7,7 @@ Me encanta analizar datos para encontrar patrones, insights y contar historias a
 
 📧 Contacto: irinaostojicnieto@gmail.com
 
-# 📁 Descripción y objetivos del proyecto
+## 📁 Descripción y objetivos del proyecto
 
 El proyecto analiza el comportamiento de clientes de un programa de lealtad de una aerolínea, utilizando dos conjuntos de datos:
 
@@ -23,7 +23,7 @@ Las principales librerias que hemos utilizado en el desarrollo del proyecto son:
 * `Seaborn`: para la creación gráficos más estilizados
 * `Scipy.stats`: para pruebas de estadística inferencial
 
-# 🎯 Objetivos y estructura del proyecto
+## 🎯 Objetivos y estructura del proyecto
 
 El proyecto se ha desarrollado en tres notebooks diferentes, cada uno centrado en una fase del análisis:
 
