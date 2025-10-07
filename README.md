@@ -1,4 +1,4 @@
-# ✈️ Proyecto DataSky: Exploración sobre el Programa de Lealtad de Aerolínea, por Irina Ostojic
+# ✈️ Proyecto DataSky: Exploración sobre el Programa de Lealtad de la aerolínea, por Irina Ostojic
 ## 👩‍💻 Sobre mí
 
 ¡Hola! Soy Irina Ostojic, estudiante del Bootcamp de Data Analytics en Adalab. Esta es mi tercera evaluación del Módulo 3, centrado en el tratamiento de datos a través de Python, usando Pandas, y aplicando visualización y estadística.
