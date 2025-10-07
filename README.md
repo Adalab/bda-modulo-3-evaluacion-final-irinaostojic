@@ -25,7 +25,7 @@ Las principales librerias que hemos utilizado en el desarrollo del proyecto son:
 
 ## 🎯 Objetivos y estructura del proyecto
 
-El proyecto se ha desarrollado en tres notebooks diferentes, cada uno centrado en una fase del análisis:
+El proyecto se ha desarrollado en tres Jupyter notebooks diferentes, cada uno centrado en una fase del análisis:
 
 1️⃣ Fase 1: Exploración y limpieza (`FASE1_exploracion-limpieza_irina-ostojic.ipynb`)
 - Exploración inicial de los datasets: identificación de nulos, valores atípicos y estructura general de los datasets.
@@ -33,6 +33,7 @@ El proyecto se ha desarrollado en tres notebooks diferentes, cada uno centrado e
 - Limpieza de datos: manejo de nulos, conversión de tipos y revisión de consistencia de columnas.
 
 2️⃣ Fase 2: Visualización (`FASE2_visualizacion_irina-ostojic.ipynb`)
+
 Las preguntas a las que hemos respondido con gráficos son:
 - Distribución de vuelos reservados por mes.
 - Relación entre distancia de vuelos y puntos acumulados.
@@ -52,4 +53,4 @@ Las preguntas a las que hemos respondido con gráficos son:
 - La visualización con Matplotlib y Seaborn me ayudó a adentrarme en la visualización de datos para poder identificar patrones, tendencias y relaciones entre variables.
 
 ## 📝 Recomendaciones
-Se recomienda revisar cada notebook paso a paso, asegurando comprensión del análisis.
+Se recomienda revisar cada Jupyter paso a paso, asegurando comprensión del análisis.
